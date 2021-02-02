@@ -1,0 +1,10 @@
+.*
+!.gitignore
+
+Thumbs.db
+build/
+target/
+out/
+*.iml
+*.ipr
+*.iws
